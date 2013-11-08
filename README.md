@@ -10,3 +10,6 @@ By Alex Pacini & Ing. Josè Falla
 [CC BY-NC license](https://creativecommons.org/licenses/by-nc/3.0/).
 
 ![CC BY-NC license](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexpacini/retiwireless/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
