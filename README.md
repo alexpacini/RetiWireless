@@ -2,7 +2,7 @@
 
 [Laurea Magistrale in Ingegneria elettronica e telecomunicazioni per lo sviluppo sostenibile - Università di Bologna, Campus di Cesena](http://goo.gl/WwgFO1)
 
-_itoa_ [Wiki](https://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/itoa) implementation for IAR.
+_itoa_ implementation for IAR ([Wiki](https://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/itoa))
 
 By Alex Pacini & Ing. Josè Falla
 
