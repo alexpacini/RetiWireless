@@ -4,7 +4,7 @@
 
 _itoa_ [Wiki](https://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/itoa) implementation for IAR.
 
-By Alex Pacini & Josè Falla
+By Alex Pacini & Ing. Josè Falla
 
 
 [CC BY-NC license](https://creativecommons.org/licenses/by-nc/3.0/).
